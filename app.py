@@ -1,2 +1,2 @@
 import streamlit as st
-title = st.title("森耀大")
+title = st.title("kt")
